@@ -40,4 +40,4 @@ To run the project, you need the following installed on your machine:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/task-management-app.git
+git clone https://github.com/Dev-Harsh87/Task_App.git
